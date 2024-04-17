@@ -1,5 +1,5 @@
 # **Product Backlog**
-<!--ID 	 	  Prio      Epic 		  User Story     COS(Criteria of Satisfaction) 		Effort -->
+<!--ID 	 	  Prio      Epic 		  User Story     CoS		Effort -->
 |   ID   |  PRIO  |   EPIC   |                           USER STORY                         |                                     CoS                                       | Effort |
 |:------:| :----: | :------: | :----------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :----: |
 | 1 | 1 | landingPage | As a user(visitor) i want to find what i search for |  add navigation bar and add self explanary links | ? |
