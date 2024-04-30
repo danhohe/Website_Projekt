@@ -1,5 +1,6 @@
 1. Projektbeschreibung:
-Das Projekt zielt darauf ab, eine persönliche Website zu erstellen, die als digitaler Lebenslauf fungiert und meine beruflichen Erfahrungen, Fähigkeiten, Projekte und Portfolio präsentiert. Die Website wird eine benutzerfreundliche Oberfläche bieten, die es Besuchern ermöglicht, einen umfassenden Einblick in meine berufliche Laufbahn und technischen Fähigkeiten zu erhalten. Zudem wird die Website eine direkte Verbindung zu meiner persönlichen GitHub-Seite herstellen, um Besuchern einen Einblick in meine GitHub-Repositories und bisherigen Projekte zu ermöglichen.
+Das Projekt zielt darauf ab, eine persönliche Website zu erstellen, die als digitaler Lebenslauf fungiert und meine beruflichen Erfahrungen, Fähigkeiten, Projekte und ein ausführliches Portfolio präsentiert. Die Website wird eine benutzerfreundliche Oberfläche bieten, die es Besuchern ermöglicht, einen umfassenden Einblick in meine berufliche Laufbahn und technischen Fähigkeiten zu erhalten. Zudem wird die Website eine direkte Verbindung zu meiner persönlichen GitHub-Seite herstellen, um Besuchern einen Einblick in meine GitHub-Repositories und bisherigen Projekte zu ermöglichen. Weiters sollte
+es Besucher motivieren eine eigene Website zu erstellen und deshalb wird auch ein Template bereitgestellt, welches zur Erstellung und individueller Anpassung dient.
 
 2. Ziele des Projekts:
 

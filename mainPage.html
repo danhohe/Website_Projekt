@@ -1,0 +1,31 @@
+<h1>TestPage</h1>
+
+<h3>TestLink to GitHub repo:</h3>
+
+
+
+
+<a class="tiptext">A link
+    <iframe class="description" src="https://github.com/danhohe/POS.git"></iframe>
+    </a>
+
+    <style>
+    .tiptext {
+        color:#069; 
+        cursor:pointer;
+    }
+    .description {
+        display:none;
+        position:absolute;
+        border:1px solid #000;
+        width:400px;
+        height:400px;
+    }
+</style>
+    <script>
+    $(".tiptext").mouseover(function() {
+        $(this).children(".description").show();
+    }).mouseout(function() {
+        $(this).children(".description").hide();
+    });
+</script>
