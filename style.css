@@ -1,4 +1,4 @@
-body {
+/*body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
@@ -42,4 +42,37 @@ nav ul li a {
 }
 nav ul li a:hover {
     background-color: #555;
+}
+*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #800080; /* Violett */
+    color: #00FFFF; /* Cyan */
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header, footer {
+    background-color: #00FFFF; /* Cyan */
+    color: #800080; /* Violett */
+    text-align: center;
+    padding: 1em 0;
+}
+nav a {
+    color: #800080; /* Violett */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container {
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+}
+.section-title {
+    color: #00FFFF; /* Cyan */
+}
+a {
+    color: #00FFFF; /* Cyan */
 }
